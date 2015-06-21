@@ -1,0 +1,14 @@
+{"file":"common.png","frames":{
+"my_2":{"x":1,"y":136,"w":197,"h":101,"offX":0,"offY":0,"sourceW":197,"sourceH":101},
+"myb_1":{"x":431,"y":193,"w":35,"h":65,"offX":0,"offY":0,"sourceW":35,"sourceH":65},
+"myb_2":{"x":406,"y":271,"w":65,"h":65,"offX":0,"offY":0,"sourceW":65,"sourceH":65},
+"myb_3":{"x":309,"y":271,"w":95,"h":65,"offX":0,"offY":0,"sourceW":95,"sourceH":65},
+"BossBullet":{"x":315,"y":136,"w":20,"h":20,"offX":0,"offY":0,"sourceW":20,"sourceH":20},
+"ep_2":{"x":366,"y":1,"w":129,"h":104,"offX":0,"offY":0,"sourceW":129,"sourceH":104},
+"ep_8":{"x":315,"y":193,"w":114,"h":76,"offX":0,"offY":0,"sourceW":114,"sourceH":76},
+"ep_9":{"x":200,"y":219,"w":107,"h":80,"offX":0,"offY":0,"sourceW":107,"sourceH":80},
+"ep_10":{"x":366,"y":107,"w":112,"h":84,"offX":0,"offY":0,"sourceW":112,"sourceH":84},
+"ep_13":{"x":1,"y":1,"w":186,"h":133,"offX":0,"offY":0,"sourceW":186,"sourceH":133},
+"ep_14":{"x":200,"y":136,"w":113,"h":81,"offX":0,"offY":0,"sourceW":113,"sourceH":81},
+"ep_15":{"x":189,"y":1,"w":175,"h":133,"offX":0,"offY":0,"sourceW":175,"sourceH":133},
+"epb_1":{"x":1,"y":239,"w":45,"h":82,"offX":0,"offY":0,"sourceW":45,"sourceH":82}}}

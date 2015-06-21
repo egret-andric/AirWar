@@ -1,0 +1,19 @@
+{
+	"groups":[
+	{
+		"keys":"common,map",
+		"name":"preload"
+	}],
+	"resources":[
+	{
+		"name":"common",
+		"subkeys":"myb_1,BossBullet,ep_8,ep_14,epb_1,ep_10,ep_15,myb_3,myb_2,ep_2,my_2,ep_9,ep_13",
+		"type":"sheet",
+		"url":"common.json"
+	},
+	{
+		"name":"map",
+		"type":"image",
+		"url":"map.jpg"
+	}]
+}
